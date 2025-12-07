@@ -1,0 +1,22 @@
+# 参数计算
+needing_calculate: false
+csv_path: data/raw/stock_ga_parameters_new.csv
+result_path: data/raw/stock_ga_parameters_new.csv
+
+# 路径配置
+log_dir: ./logs
+log_name: pinn
+model_dir: ./models
+
+# 模型结构
+train: True
+input_dim: 3
+hidden_dims: [64, 64, 64, 64]
+output_dim: 42
+
+# 训练参数
+epochs: 10000
+batch_size: 128
+
+# 设备（建议设为 "auto"，在代码中动态替换为 cuda/cpu）
+device: auto
