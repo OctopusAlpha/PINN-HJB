@@ -14,13 +14,15 @@ def mle_gbm(prices, dt=1/252):
     
     return mu_hat, sigma_hat
 
-def calculate_parements_stock(data_path,result_path,save_csv):
+def calculate_parements_stock(data_path, result_path=None, save_csv=False):
 
     # 加载数据
     if data_path.endswith('.csv'):
-        df = pd.read_csv("data_path", encoding="utf-8")
-    elif data_path.endswith('.xlsx') or data_path.endswith('.xlx') :
-        df = pd.read_excel("data_path", encoding="utf-8")
+        df = pd.read_csv(data_path, encoding="utf-8")
+    elif data_path.endswith('.xlsx') or data_path.endswith('.xlx'):
+        df = pd.read_excel(data_path, encoding="utf-8")
+    else:
+        raise ValueError(f"不支持的文件格式: {data_path}")
 
     # 按股票分组
     grouped = df.groupby('id')
@@ -40,9 +42,9 @@ def calculate_parements_stock(data_path,result_path,save_csv):
             'sigma': sigma,
         })
     results_df = pd.DataFrame(results)
-    if save_csv:
+    if save_csv and result_path:
         results_df.to_csv(result_path, index=False)
-        print("\n所有股票参数优化完成，结果已保存至 'stock_ga_parameters.csv'")
+        print(f"\n所有股票参数优化完成，结果已保存至 '{result_path}'")
 
     return results
 
