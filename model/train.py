@@ -32,7 +32,7 @@ def _plot_loss_curves(history_df, log_dir):
     plt.figure(figsize=(8, 5))
     plt.plot(history_df["epoch"], history_df["total_loss"], label="total_loss")
     plt.plot(history_df["epoch"], history_df["constraint_loss"], label="constraint_loss")
-    plt.plot(history_df["epoch"], history_df["hjb_M"], label="HJB_residual")
+    plt.plot(history_df["epoch"], history_df["loss"], label="HJB_residual")
     plt.plot(history_df["epoch"], history_df["boundary_loss"], label="boundary_loss")
     plt.xlabel("epoch")
     plt.ylabel("loss")
@@ -63,7 +63,7 @@ def train(cfg, paraments):
         "epoch": [],
         "total_loss": [],
         "constraint_loss": [],
-        "hjb_M": [],
+        "loss": [],
         "boundary_loss": [],
     }
     for epoch in tqdm(range(cfg.epochs)):
@@ -85,7 +85,7 @@ def train(cfg, paraments):
         history["epoch"].append(epoch)
         history["total_loss"].append(loss_total.item())
         history["constraint_loss"].append(constraint_loss.item())
-        history["hjb_M"].append(M.item())
+        history["loss"].append(loss.item())
         history["boundary_loss"].append(boundary_loss.item())
 
         if epoch % 10 == 0:

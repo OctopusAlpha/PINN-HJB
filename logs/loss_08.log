@@ -1,0 +1,1344 @@
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 0, Loss: 32.973701
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 31.464851, M: 1.508850, Boundary Loss: 42.688019
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 10, Loss: 31.505575
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 30.139351, M: 1.366223, Boundary Loss: 36.055660
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 20, Loss: 25.845745
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 25.017298, M: 0.828448, Boundary Loss: 16.404816
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 30, Loss: 18.057793
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 17.557816, M: 0.499977, Boundary Loss: 5.808145
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 40, Loss: 11.180488
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 9.842710, M: 1.337778, Boundary Loss: 3.899478
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 50, Loss: 3.404860
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 2.233756, M: 1.171105, Boundary Loss: 1.966493
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 60, Loss: 1.280334
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 0.341617, M: 0.938716, Boundary Loss: 1.764328
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 70, Loss: 1.158226
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 0.117816, M: 1.040409, Boundary Loss: 1.703735
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 80, Loss: 0.891019
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 0.071987, M: 0.819032, Boundary Loss: 1.726226
+2025-12-08 21:59:48 | INFO     | pinn:92 - Epoch 90, Loss: 0.441331
+2025-12-08 21:59:48 | INFO     | pinn:93 -   Constraint Loss: 0.058618, M: 0.382713, Boundary Loss: 1.860164
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 100, Loss: 0.879061
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.051727, M: 0.827334, Boundary Loss: 2.509156
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 110, Loss: 0.241007
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.046260, M: 0.194747, Boundary Loss: 1.687509
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 120, Loss: 0.608555
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.042892, M: 0.565663, Boundary Loss: 1.654587
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 130, Loss: 0.340383
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.038495, M: 0.301888, Boundary Loss: 1.757813
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 140, Loss: 0.209209
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.035874, M: 0.173336, Boundary Loss: 1.622269
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 150, Loss: 0.197881
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.033104, M: 0.164778, Boundary Loss: 1.801633
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 160, Loss: 0.385732
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.030789, M: 0.354943, Boundary Loss: 1.637388
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 170, Loss: 0.215032
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.028873, M: 0.186159, Boundary Loss: 1.872012
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 180, Loss: 0.405332
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.026680, M: 0.378652, Boundary Loss: 1.400006
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 190, Loss: 0.354287
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.025328, M: 0.328958, Boundary Loss: 1.401424
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 200, Loss: 0.326764
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.023520, M: 0.303245, Boundary Loss: 1.542583
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 210, Loss: 0.213553
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.022058, M: 0.191495, Boundary Loss: 1.545281
+2025-12-08 21:59:49 | INFO     | pinn:92 - Epoch 220, Loss: 0.158904
+2025-12-08 21:59:49 | INFO     | pinn:93 -   Constraint Loss: 0.021013, M: 0.137891, Boundary Loss: 1.824084
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 230, Loss: 0.178595
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.020015, M: 0.158580, Boundary Loss: 1.521097
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 240, Loss: 0.149346
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.019266, M: 0.130080, Boundary Loss: 1.667873
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 250, Loss: 0.183504
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.018327, M: 0.165176, Boundary Loss: 1.681092
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 260, Loss: 0.190104
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.017834, M: 0.172270, Boundary Loss: 1.648852
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 270, Loss: 0.208374
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.016976, M: 0.191398, Boundary Loss: 1.598315
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 280, Loss: 0.200891
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.016438, M: 0.184453, Boundary Loss: 1.457341
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 290, Loss: 0.245347
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015872, M: 0.229475, Boundary Loss: 1.357144
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 300, Loss: 0.527233
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015789, M: 0.511444, Boundary Loss: 1.713639
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 310, Loss: 0.259937
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015417, M: 0.244520, Boundary Loss: 1.528726
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 320, Loss: 0.380597
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015352, M: 0.365245, Boundary Loss: 1.566770
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 330, Loss: 0.307556
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015077, M: 0.292479, Boundary Loss: 1.649224
+2025-12-08 21:59:50 | INFO     | pinn:92 - Epoch 340, Loss: 0.248432
+2025-12-08 21:59:50 | INFO     | pinn:93 -   Constraint Loss: 0.015247, M: 0.233185, Boundary Loss: 1.246322
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 350, Loss: 0.237143
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.015692, M: 0.221451, Boundary Loss: 1.496333
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 360, Loss: 0.252238
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.015218, M: 0.237021, Boundary Loss: 1.105090
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 370, Loss: 0.294457
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.015377, M: 0.279079, Boundary Loss: 1.133152
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 380, Loss: 0.495008
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.015224, M: 0.479784, Boundary Loss: 1.190276
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 390, Loss: 0.365248
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.016275, M: 0.348973, Boundary Loss: 1.235017
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 400, Loss: 0.251486
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.015472, M: 0.236014, Boundary Loss: 1.307706
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 410, Loss: 0.211188
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.014571, M: 0.196617, Boundary Loss: 1.161117
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 420, Loss: 0.205123
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.014627, M: 0.190496, Boundary Loss: 1.246624
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 430, Loss: 0.277864
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.013828, M: 0.264036, Boundary Loss: 1.041095
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 440, Loss: 0.256087
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.013986, M: 0.242101, Boundary Loss: 1.268563
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 450, Loss: 0.421772
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.013922, M: 0.407850, Boundary Loss: 1.313856
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 460, Loss: 0.308768
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.012904, M: 0.295864, Boundary Loss: 1.111997
+2025-12-08 21:59:51 | INFO     | pinn:92 - Epoch 470, Loss: 0.235694
+2025-12-08 21:59:51 | INFO     | pinn:93 -   Constraint Loss: 0.012790, M: 0.222903, Boundary Loss: 1.195157
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 480, Loss: 0.448670
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.013586, M: 0.435083, Boundary Loss: 1.040253
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 490, Loss: 0.289846
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.012014, M: 0.277832, Boundary Loss: 1.044984
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 500, Loss: 0.673277
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.012700, M: 0.660577, Boundary Loss: 0.855824
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 510, Loss: 0.296981
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011469, M: 0.285512, Boundary Loss: 1.177343
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 520, Loss: 0.329306
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011812, M: 0.317494, Boundary Loss: 1.063702
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 530, Loss: 0.401484
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011053, M: 0.390431, Boundary Loss: 0.904281
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 540, Loss: 0.176163
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011260, M: 0.164904, Boundary Loss: 1.014083
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 550, Loss: 0.323775
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011303, M: 0.312473, Boundary Loss: 0.899610
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 560, Loss: 0.542127
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.011998, M: 0.530129, Boundary Loss: 0.893029
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 570, Loss: 0.353016
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.010056, M: 0.342960, Boundary Loss: 0.910849
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 580, Loss: 0.225142
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.010624, M: 0.214518, Boundary Loss: 0.837138
+2025-12-08 21:59:52 | INFO     | pinn:92 - Epoch 590, Loss: 0.266808
+2025-12-08 21:59:52 | INFO     | pinn:93 -   Constraint Loss: 0.010950, M: 0.255858, Boundary Loss: 0.925927
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 600, Loss: 0.236943
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.010637, M: 0.226306, Boundary Loss: 1.010784
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 610, Loss: 0.210157
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.009827, M: 0.200331, Boundary Loss: 0.884564
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 620, Loss: 0.210124
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.010842, M: 0.199282, Boundary Loss: 1.049616
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 630, Loss: 0.312731
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.009617, M: 0.303115, Boundary Loss: 0.720402
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 640, Loss: 0.330803
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.010933, M: 0.319870, Boundary Loss: 0.833240
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 650, Loss: 0.303912
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.010206, M: 0.293706, Boundary Loss: 0.668444
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 660, Loss: 0.277250
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.011358, M: 0.265893, Boundary Loss: 0.571529
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 670, Loss: 0.190175
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.011127, M: 0.179048, Boundary Loss: 0.479158
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 680, Loss: 0.172640
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.011974, M: 0.160666, Boundary Loss: 0.416624
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 690, Loss: 0.171611
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.013776, M: 0.157835, Boundary Loss: 0.310592
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 700, Loss: 0.327741
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.015424, M: 0.312317, Boundary Loss: 0.307117
+2025-12-08 21:59:53 | INFO     | pinn:92 - Epoch 710, Loss: 0.204491
+2025-12-08 21:59:53 | INFO     | pinn:93 -   Constraint Loss: 0.015184, M: 0.189307, Boundary Loss: 0.160547
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 720, Loss: 0.333684
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.027219, M: 0.306465, Boundary Loss: 0.095379
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 730, Loss: 0.544222
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.019593, M: 0.524629, Boundary Loss: 0.071712
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 740, Loss: 0.452589
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.018310, M: 0.434279, Boundary Loss: 0.078801
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 750, Loss: 0.263747
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.021960, M: 0.241787, Boundary Loss: 0.143199
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 760, Loss: 0.159100
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.015290, M: 0.143810, Boundary Loss: 0.090481
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 770, Loss: 0.275560
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.020459, M: 0.255101, Boundary Loss: 0.050205
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 780, Loss: 0.228925
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.016562, M: 0.212363, Boundary Loss: 0.104266
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 790, Loss: 0.205873
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.014314, M: 0.191559, Boundary Loss: 0.044883
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 800, Loss: 0.242127
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.012755, M: 0.229372, Boundary Loss: 0.058432
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 810, Loss: 0.155225
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.009166, M: 0.146059, Boundary Loss: 0.083885
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 820, Loss: 0.106476
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.008339, M: 0.098137, Boundary Loss: 0.112670
+2025-12-08 21:59:54 | INFO     | pinn:92 - Epoch 830, Loss: 0.170112
+2025-12-08 21:59:54 | INFO     | pinn:93 -   Constraint Loss: 0.010701, M: 0.159411, Boundary Loss: 0.023642
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 840, Loss: 0.091701
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.008611, M: 0.083090, Boundary Loss: 0.028111
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 850, Loss: 0.090356
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.009728, M: 0.080628, Boundary Loss: 0.067341
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 860, Loss: 0.273097
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.008693, M: 0.264404, Boundary Loss: 0.085471
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 870, Loss: 0.191590
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.010292, M: 0.181299, Boundary Loss: 0.058084
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 880, Loss: 0.194084
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.008916, M: 0.185168, Boundary Loss: 0.034060
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 890, Loss: 0.105830
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.007112, M: 0.098718, Boundary Loss: 0.118276
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 900, Loss: 0.078852
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.006996, M: 0.071856, Boundary Loss: 0.031790
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 910, Loss: 0.087168
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.008745, M: 0.078423, Boundary Loss: 0.020225
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 920, Loss: 0.072470
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.007520, M: 0.064950, Boundary Loss: 0.092486
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 930, Loss: 0.114760
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.007648, M: 0.107113, Boundary Loss: 0.024910
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 940, Loss: 0.233612
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.007189, M: 0.226423, Boundary Loss: 0.020222
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 950, Loss: 0.121573
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.005874, M: 0.115699, Boundary Loss: 0.424144
+2025-12-08 21:59:55 | INFO     | pinn:92 - Epoch 960, Loss: 0.146822
+2025-12-08 21:59:55 | INFO     | pinn:93 -   Constraint Loss: 0.004516, M: 0.142306, Boundary Loss: 0.034644
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 970, Loss: 0.054381
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.004876, M: 0.049505, Boundary Loss: 0.011606
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 980, Loss: 0.065112
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.005851, M: 0.059261, Boundary Loss: 0.097747
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 990, Loss: 0.105216
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.004684, M: 0.100533, Boundary Loss: 0.155871
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1000, Loss: 0.088724
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.004899, M: 0.083825, Boundary Loss: 0.029604
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1010, Loss: 0.128132
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.005607, M: 0.122525, Boundary Loss: 0.090871
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1020, Loss: 0.175708
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.004551, M: 0.171156, Boundary Loss: 0.021676
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1030, Loss: 0.147325
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.003105, M: 0.144220, Boundary Loss: 0.039779
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1040, Loss: 0.053979
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.003740, M: 0.050239, Boundary Loss: 0.021967
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1050, Loss: 0.239457
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.003919, M: 0.235538, Boundary Loss: 0.019586
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1060, Loss: 0.369491
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.005435, M: 0.364056, Boundary Loss: 0.136509
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1070, Loss: 0.074411
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.003281, M: 0.071129, Boundary Loss: 0.248237
+2025-12-08 21:59:56 | INFO     | pinn:92 - Epoch 1080, Loss: 0.146657
+2025-12-08 21:59:56 | INFO     | pinn:93 -   Constraint Loss: 0.003243, M: 0.143414, Boundary Loss: 0.037775
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1090, Loss: 0.074321
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.004763, M: 0.069558, Boundary Loss: 0.424596
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1100, Loss: 0.053028
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003568, M: 0.049460, Boundary Loss: 0.030522
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1110, Loss: 0.139161
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003092, M: 0.136069, Boundary Loss: 0.232331
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1120, Loss: 0.056292
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003021, M: 0.053270, Boundary Loss: 0.016564
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1130, Loss: 0.049589
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003042, M: 0.046546, Boundary Loss: 0.020925
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1140, Loss: 0.058458
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.002235, M: 0.056222, Boundary Loss: 0.093265
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1150, Loss: 0.041563
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.002986, M: 0.038577, Boundary Loss: 0.135195
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1160, Loss: 0.051064
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003680, M: 0.047384, Boundary Loss: 0.093418
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1170, Loss: 0.078776
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.002492, M: 0.076284, Boundary Loss: 0.015880
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1180, Loss: 0.069741
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.003147, M: 0.066594, Boundary Loss: 0.069968
+2025-12-08 21:59:57 | INFO     | pinn:92 - Epoch 1190, Loss: 0.063994
+2025-12-08 21:59:57 | INFO     | pinn:93 -   Constraint Loss: 0.002301, M: 0.061692, Boundary Loss: 0.014141
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1200, Loss: 0.197186
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.003416, M: 0.193771, Boundary Loss: 0.018040
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1210, Loss: 0.055029
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002251, M: 0.052778, Boundary Loss: 0.141301
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1220, Loss: 0.109630
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002489, M: 0.107141, Boundary Loss: 0.024422
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1230, Loss: 0.243499
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002522, M: 0.240978, Boundary Loss: 0.030733
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1240, Loss: 0.173203
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002431, M: 0.170772, Boundary Loss: 0.023926
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1250, Loss: 0.041717
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.001995, M: 0.039722, Boundary Loss: 0.080682
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1260, Loss: 0.197966
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.001986, M: 0.195980, Boundary Loss: 0.021101
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1270, Loss: 0.153663
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002127, M: 0.151535, Boundary Loss: 0.019753
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1280, Loss: 0.036711
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.001640, M: 0.035071, Boundary Loss: 0.030433
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1290, Loss: 0.154630
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.003082, M: 0.151548, Boundary Loss: 0.317643
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1300, Loss: 0.118004
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.001561, M: 0.116443, Boundary Loss: 0.174141
+2025-12-08 21:59:58 | INFO     | pinn:92 - Epoch 1310, Loss: 0.067033
+2025-12-08 21:59:58 | INFO     | pinn:93 -   Constraint Loss: 0.002325, M: 0.064708, Boundary Loss: 0.054944
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1320, Loss: 0.087715
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001637, M: 0.086077, Boundary Loss: 0.041851
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1330, Loss: 0.032403
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001904, M: 0.030499, Boundary Loss: 0.057410
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1340, Loss: 0.055125
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001846, M: 0.053279, Boundary Loss: 0.022179
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1350, Loss: 0.126425
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.002208, M: 0.124217, Boundary Loss: 0.019230
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1360, Loss: 0.038362
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001659, M: 0.036704, Boundary Loss: 0.022462
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1370, Loss: 0.044976
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001619, M: 0.043356, Boundary Loss: 0.095146
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1380, Loss: 0.100300
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001622, M: 0.098677, Boundary Loss: 0.033276
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1390, Loss: 0.076669
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001453, M: 0.075217, Boundary Loss: 0.074634
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1400, Loss: 0.097591
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001799, M: 0.095792, Boundary Loss: 0.018136
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1410, Loss: 0.066098
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001736, M: 0.064362, Boundary Loss: 0.024616
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1420, Loss: 0.068570
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001869, M: 0.066700, Boundary Loss: 0.047268
+2025-12-08 21:59:59 | INFO     | pinn:92 - Epoch 1430, Loss: 0.053319
+2025-12-08 21:59:59 | INFO     | pinn:93 -   Constraint Loss: 0.001913, M: 0.051407, Boundary Loss: 0.019713
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1440, Loss: 0.064197
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001428, M: 0.062768, Boundary Loss: 0.030220
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1450, Loss: 0.030142
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001369, M: 0.028774, Boundary Loss: 0.049077
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1460, Loss: 0.377907
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001540, M: 0.376367, Boundary Loss: 0.065769
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1470, Loss: 0.221038
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001693, M: 0.219345, Boundary Loss: 0.014928
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1480, Loss: 0.117150
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001134, M: 0.116016, Boundary Loss: 0.238788
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1490, Loss: 0.182769
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001526, M: 0.181243, Boundary Loss: 0.035882
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1500, Loss: 0.040096
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001496, M: 0.038599, Boundary Loss: 0.041693
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1510, Loss: 0.056291
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001240, M: 0.055051, Boundary Loss: 0.009778
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1520, Loss: 0.129956
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001407, M: 0.128549, Boundary Loss: 0.030405
+2025-12-08 22:00:00 | INFO     | pinn:92 - Epoch 1530, Loss: 0.148410
+2025-12-08 22:00:00 | INFO     | pinn:93 -   Constraint Loss: 0.001241, M: 0.147168, Boundary Loss: 0.055194
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1540, Loss: 0.076242
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001939, M: 0.074303, Boundary Loss: 0.328313
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1550, Loss: 0.047753
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001281, M: 0.046472, Boundary Loss: 0.071976
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1560, Loss: 0.035965
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001497, M: 0.034468, Boundary Loss: 0.011073
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1570, Loss: 0.050127
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001217, M: 0.048910, Boundary Loss: 0.299997
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1580, Loss: 0.035324
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001530, M: 0.033794, Boundary Loss: 0.039301
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1590, Loss: 0.126988
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001300, M: 0.125688, Boundary Loss: 0.021759
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1600, Loss: 0.026725
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001320, M: 0.025405, Boundary Loss: 0.083885
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1610, Loss: 0.115645
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001187, M: 0.114458, Boundary Loss: 0.011834
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1620, Loss: 0.413076
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.001357, M: 0.411719, Boundary Loss: 0.019361
+2025-12-08 22:00:01 | INFO     | pinn:92 - Epoch 1630, Loss: 0.129937
+2025-12-08 22:00:01 | INFO     | pinn:93 -   Constraint Loss: 0.000932, M: 0.129006, Boundary Loss: 0.032904
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1640, Loss: 0.058385
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001055, M: 0.057330, Boundary Loss: 0.046181
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1650, Loss: 0.032663
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.000960, M: 0.031703, Boundary Loss: 0.036029
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1660, Loss: 0.081644
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.000899, M: 0.080745, Boundary Loss: 0.514817
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1670, Loss: 0.044266
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001062, M: 0.043204, Boundary Loss: 0.020810
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1680, Loss: 0.075040
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001052, M: 0.073988, Boundary Loss: 0.011613
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1690, Loss: 0.071923
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.000909, M: 0.071014, Boundary Loss: 0.028335
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1700, Loss: 0.143043
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001329, M: 0.141714, Boundary Loss: 0.025127
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1710, Loss: 0.085688
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001078, M: 0.084610, Boundary Loss: 0.014123
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1720, Loss: 0.050743
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.000868, M: 0.049876, Boundary Loss: 0.112144
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1730, Loss: 0.047897
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001177, M: 0.046721, Boundary Loss: 0.086876
+2025-12-08 22:00:02 | INFO     | pinn:92 - Epoch 1740, Loss: 0.045867
+2025-12-08 22:00:02 | INFO     | pinn:93 -   Constraint Loss: 0.001122, M: 0.044745, Boundary Loss: 0.050801
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1750, Loss: 0.136142
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.001100, M: 0.135042, Boundary Loss: 0.058761
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1760, Loss: 0.165972
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000926, M: 0.165047, Boundary Loss: 0.135029
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1770, Loss: 0.050841
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000933, M: 0.049908, Boundary Loss: 0.485573
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1780, Loss: 0.086400
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000938, M: 0.085462, Boundary Loss: 0.011174
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1790, Loss: 0.236167
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000807, M: 0.235361, Boundary Loss: 0.018707
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1800, Loss: 0.097437
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000907, M: 0.096531, Boundary Loss: 0.228308
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1810, Loss: 0.105791
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000929, M: 0.104862, Boundary Loss: 0.021294
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1820, Loss: 0.133203
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000863, M: 0.132340, Boundary Loss: 0.083116
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1830, Loss: 0.108760
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000780, M: 0.107980, Boundary Loss: 0.217245
+2025-12-08 22:00:03 | INFO     | pinn:92 - Epoch 1840, Loss: 0.114947
+2025-12-08 22:00:03 | INFO     | pinn:93 -   Constraint Loss: 0.000695, M: 0.114252, Boundary Loss: 0.068566
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1850, Loss: 0.049715
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000804, M: 0.048911, Boundary Loss: 0.041252
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1860, Loss: 0.044878
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000908, M: 0.043970, Boundary Loss: 0.093959
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1870, Loss: 0.036662
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000827, M: 0.035835, Boundary Loss: 0.007247
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1880, Loss: 0.031070
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000761, M: 0.030309, Boundary Loss: 0.009048
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1890, Loss: 0.075607
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000999, M: 0.074608, Boundary Loss: 0.035363
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1900, Loss: 0.055593
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000760, M: 0.054833, Boundary Loss: 0.014021
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1910, Loss: 0.086540
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000851, M: 0.085689, Boundary Loss: 0.079254
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1920, Loss: 0.096233
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000858, M: 0.095376, Boundary Loss: 0.044909
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1930, Loss: 0.043589
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000853, M: 0.042735, Boundary Loss: 0.015968
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1940, Loss: 0.192110
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000810, M: 0.191300, Boundary Loss: 0.056189
+2025-12-08 22:00:04 | INFO     | pinn:92 - Epoch 1950, Loss: 0.024513
+2025-12-08 22:00:04 | INFO     | pinn:93 -   Constraint Loss: 0.000811, M: 0.023702, Boundary Loss: 0.017739
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 1960, Loss: 0.093474
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000624, M: 0.092850, Boundary Loss: 0.034700
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 1970, Loss: 0.099130
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000673, M: 0.098457, Boundary Loss: 0.010743
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 1980, Loss: 0.074783
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000684, M: 0.074099, Boundary Loss: 0.022754
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 1990, Loss: 0.045257
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000797, M: 0.044460, Boundary Loss: 0.225007
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2000, Loss: 0.094648
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000589, M: 0.094060, Boundary Loss: 0.089323
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2010, Loss: 0.111266
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000941, M: 0.110325, Boundary Loss: 0.192836
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2020, Loss: 0.074493
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000611, M: 0.073882, Boundary Loss: 0.020593
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2030, Loss: 0.051260
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000759, M: 0.050501, Boundary Loss: 0.018213
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2040, Loss: 0.024082
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000720, M: 0.023363, Boundary Loss: 0.123000
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2050, Loss: 0.053497
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000872, M: 0.052625, Boundary Loss: 0.038392
+2025-12-08 22:00:05 | INFO     | pinn:92 - Epoch 2060, Loss: 0.089561
+2025-12-08 22:00:05 | INFO     | pinn:93 -   Constraint Loss: 0.000635, M: 0.088925, Boundary Loss: 0.011467
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2070, Loss: 0.034178
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000775, M: 0.033403, Boundary Loss: 0.031719
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2080, Loss: 0.084585
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000702, M: 0.083883, Boundary Loss: 0.089817
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2090, Loss: 0.037569
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000577, M: 0.036992, Boundary Loss: 0.023653
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2100, Loss: 0.043276
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000799, M: 0.042477, Boundary Loss: 0.022318
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2110, Loss: 0.065949
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000718, M: 0.065230, Boundary Loss: 0.021040
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2120, Loss: 0.028980
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000534, M: 0.028446, Boundary Loss: 0.344065
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2130, Loss: 0.029370
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000766, M: 0.028604, Boundary Loss: 0.013484
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2140, Loss: 0.043393
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000467, M: 0.042926, Boundary Loss: 0.061794
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2150, Loss: 0.049985
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000640, M: 0.049345, Boundary Loss: 0.014602
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2160, Loss: 0.114855
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000569, M: 0.114286, Boundary Loss: 0.162519
+2025-12-08 22:00:06 | INFO     | pinn:92 - Epoch 2170, Loss: 0.053373
+2025-12-08 22:00:06 | INFO     | pinn:93 -   Constraint Loss: 0.000573, M: 0.052800, Boundary Loss: 0.081835
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2180, Loss: 0.086018
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000677, M: 0.085341, Boundary Loss: 0.098365
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2190, Loss: 0.149331
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000612, M: 0.148719, Boundary Loss: 0.013740
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2200, Loss: 0.150245
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000680, M: 0.149565, Boundary Loss: 0.045901
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2210, Loss: 0.044322
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000569, M: 0.043753, Boundary Loss: 0.073405
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2220, Loss: 0.066107
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000592, M: 0.065514, Boundary Loss: 0.027982
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2230, Loss: 0.213940
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000594, M: 0.213346, Boundary Loss: 0.060119
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2240, Loss: 0.027482
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000507, M: 0.026974, Boundary Loss: 0.012586
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2250, Loss: 0.203161
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000418, M: 0.202744, Boundary Loss: 0.021669
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2260, Loss: 0.026895
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000531, M: 0.026363, Boundary Loss: 0.045294
+2025-12-08 22:00:07 | INFO     | pinn:92 - Epoch 2270, Loss: 0.079838
+2025-12-08 22:00:07 | INFO     | pinn:93 -   Constraint Loss: 0.000470, M: 0.079368, Boundary Loss: 0.036031
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2280, Loss: 0.038146
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000509, M: 0.037637, Boundary Loss: 0.017479
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2290, Loss: 0.126718
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000490, M: 0.126228, Boundary Loss: 0.129389
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2300, Loss: 0.030392
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000477, M: 0.029915, Boundary Loss: 0.022704
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2310, Loss: 0.122890
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000594, M: 0.122296, Boundary Loss: 0.016820
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2320, Loss: 0.124818
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000483, M: 0.124335, Boundary Loss: 0.017024
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2330, Loss: 0.174834
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000422, M: 0.174411, Boundary Loss: 0.048288
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2340, Loss: 0.099774
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000529, M: 0.099245, Boundary Loss: 0.019311
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2350, Loss: 0.063288
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000435, M: 0.062853, Boundary Loss: 0.047839
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2360, Loss: 0.036296
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000511, M: 0.035785, Boundary Loss: 0.012622
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2370, Loss: 0.061786
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000352, M: 0.061435, Boundary Loss: 0.377074
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2380, Loss: 0.107716
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000534, M: 0.107182, Boundary Loss: 0.018863
+2025-12-08 22:00:08 | INFO     | pinn:92 - Epoch 2390, Loss: 0.051208
+2025-12-08 22:00:08 | INFO     | pinn:93 -   Constraint Loss: 0.000384, M: 0.050824, Boundary Loss: 0.172167
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2400, Loss: 0.099803
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000495, M: 0.099309, Boundary Loss: 0.474159
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2410, Loss: 0.037487
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000349, M: 0.037139, Boundary Loss: 0.021073
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2420, Loss: 0.141552
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000501, M: 0.141051, Boundary Loss: 0.036043
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2430, Loss: 0.057472
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000402, M: 0.057070, Boundary Loss: 0.063377
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2440, Loss: 0.031002
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000502, M: 0.030500, Boundary Loss: 0.021090
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2450, Loss: 0.087797
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000436, M: 0.087361, Boundary Loss: 0.012766
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2460, Loss: 0.054829
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000438, M: 0.054391, Boundary Loss: 0.011811
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2470, Loss: 0.039329
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000389, M: 0.038940, Boundary Loss: 0.076046
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2480, Loss: 0.100151
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000458, M: 0.099693, Boundary Loss: 0.012484
+2025-12-08 22:00:09 | INFO     | pinn:92 - Epoch 2490, Loss: 0.026963
+2025-12-08 22:00:09 | INFO     | pinn:93 -   Constraint Loss: 0.000422, M: 0.026541, Boundary Loss: 0.024997
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2500, Loss: 0.045619
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000441, M: 0.045178, Boundary Loss: 0.129537
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2510, Loss: 0.097965
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000332, M: 0.097633, Boundary Loss: 0.023629
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2520, Loss: 0.023830
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000420, M: 0.023411, Boundary Loss: 0.083330
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2530, Loss: 0.111979
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000427, M: 0.111552, Boundary Loss: 0.025363
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2540, Loss: 0.219986
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000396, M: 0.219590, Boundary Loss: 0.197963
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2550, Loss: 0.060893
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000534, M: 0.060359, Boundary Loss: 0.064540
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2560, Loss: 0.047261
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000429, M: 0.046832, Boundary Loss: 0.026392
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2570, Loss: 0.021765
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000402, M: 0.021363, Boundary Loss: 0.013630
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2580, Loss: 0.033872
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000366, M: 0.033507, Boundary Loss: 0.007482
+2025-12-08 22:00:10 | INFO     | pinn:92 - Epoch 2590, Loss: 0.022169
+2025-12-08 22:00:10 | INFO     | pinn:93 -   Constraint Loss: 0.000409, M: 0.021760, Boundary Loss: 0.020664
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2600, Loss: 0.074105
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000378, M: 0.073727, Boundary Loss: 0.011534
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2610, Loss: 0.084825
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000392, M: 0.084433, Boundary Loss: 0.009266
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2620, Loss: 0.024769
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000438, M: 0.024332, Boundary Loss: 0.028549
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2630, Loss: 0.050245
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000357, M: 0.049888, Boundary Loss: 0.018212
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2640, Loss: 0.059683
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000419, M: 0.059265, Boundary Loss: 0.044889
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2650, Loss: 0.047516
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000356, M: 0.047160, Boundary Loss: 0.118089
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2660, Loss: 0.084220
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000518, M: 0.083702, Boundary Loss: 0.019965
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2670, Loss: 0.035019
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000330, M: 0.034688, Boundary Loss: 0.154706
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2680, Loss: 0.075980
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000456, M: 0.075524, Boundary Loss: 0.027022
+2025-12-08 22:00:11 | INFO     | pinn:92 - Epoch 2690, Loss: 0.038735
+2025-12-08 22:00:11 | INFO     | pinn:93 -   Constraint Loss: 0.000291, M: 0.038444, Boundary Loss: 0.010377
+2025-12-08 22:00:36 | INFO     | pinn:92 - Epoch 0, Loss: 31.663298
+2025-12-08 22:00:36 | INFO     | pinn:93 -   Constraint Loss: 30.771946, M: 0.891352, Boundary Loss: 42.517803
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 10, Loss: 30.586891
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 29.316282, M: 1.270609, Boundary Loss: 26.119823
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 20, Loss: 25.144999
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 24.133457, M: 1.011541, Boundary Loss: 13.748024
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 30, Loss: 17.925173
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 17.304316, M: 0.620858, Boundary Loss: 5.904212
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 40, Loss: 10.848746
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 10.036978, M: 0.811768, Boundary Loss: 2.271569
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 50, Loss: 3.211576
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 2.528547, M: 0.683028, Boundary Loss: 1.722317
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 60, Loss: 1.489919
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.373900, M: 1.116019, Boundary Loss: 2.297019
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 70, Loss: 1.131579
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.119487, M: 1.012092, Boundary Loss: 1.847263
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 80, Loss: 0.991997
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.069190, M: 0.922807, Boundary Loss: 1.785816
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 90, Loss: 0.595908
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.053164, M: 0.542744, Boundary Loss: 1.782007
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 100, Loss: 0.451320
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.046089, M: 0.405231, Boundary Loss: 1.592458
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 110, Loss: 0.349688
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.042441, M: 0.307247, Boundary Loss: 1.760236
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 120, Loss: 0.561032
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.039077, M: 0.521955, Boundary Loss: 1.639353
+2025-12-08 22:00:37 | INFO     | pinn:92 - Epoch 130, Loss: 0.302894
+2025-12-08 22:00:37 | INFO     | pinn:93 -   Constraint Loss: 0.036363, M: 0.266530, Boundary Loss: 1.684508
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 140, Loss: 0.395614
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.033876, M: 0.361738, Boundary Loss: 2.210577
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 150, Loss: 0.225115
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.031574, M: 0.193541, Boundary Loss: 1.693450
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 160, Loss: 0.341736
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.029358, M: 0.312378, Boundary Loss: 2.116855
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 170, Loss: 0.186405
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.027433, M: 0.158972, Boundary Loss: 1.629410
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 180, Loss: 0.605329
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.026164, M: 0.579166, Boundary Loss: 1.845835
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 190, Loss: 0.302976
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.024575, M: 0.278402, Boundary Loss: 1.663336
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 200, Loss: 0.348578
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.023355, M: 0.325223, Boundary Loss: 1.678632
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 210, Loss: 0.191463
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.022049, M: 0.169414, Boundary Loss: 1.692289
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 220, Loss: 0.201517
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.021037, M: 0.180480, Boundary Loss: 1.449541
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 230, Loss: 0.178418
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.020079, M: 0.158339, Boundary Loss: 1.966372
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 240, Loss: 0.306936
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.018895, M: 0.288040, Boundary Loss: 1.876842
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 250, Loss: 0.145951
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.018378, M: 0.127573, Boundary Loss: 1.497257
+2025-12-08 22:00:38 | INFO     | pinn:92 - Epoch 260, Loss: 0.735466
+2025-12-08 22:00:38 | INFO     | pinn:93 -   Constraint Loss: 0.017724, M: 0.717742, Boundary Loss: 1.375236
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 270, Loss: 0.322377
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.016829, M: 0.305547, Boundary Loss: 1.902781
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 280, Loss: 0.309677
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.016180, M: 0.293497, Boundary Loss: 1.446243
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 290, Loss: 0.394916
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.015899, M: 0.379016, Boundary Loss: 1.855497
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 300, Loss: 0.145698
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.015102, M: 0.130596, Boundary Loss: 1.513879
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 310, Loss: 0.265967
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.014530, M: 0.251437, Boundary Loss: 1.501204
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 320, Loss: 0.199091
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.014695, M: 0.184395, Boundary Loss: 1.659116
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 330, Loss: 0.272489
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.014185, M: 0.258304, Boundary Loss: 1.273065
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 340, Loss: 0.134314
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.013813, M: 0.120501, Boundary Loss: 1.401194
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 350, Loss: 0.140660
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.013490, M: 0.127171, Boundary Loss: 1.736596
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 360, Loss: 0.246719
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.013531, M: 0.233189, Boundary Loss: 1.764137
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 370, Loss: 0.154855
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.012513, M: 0.142341, Boundary Loss: 1.590751
+2025-12-08 22:00:39 | INFO     | pinn:92 - Epoch 380, Loss: 0.361379
+2025-12-08 22:00:39 | INFO     | pinn:93 -   Constraint Loss: 0.012207, M: 0.349172, Boundary Loss: 1.244398
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 390, Loss: 0.130916
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.012000, M: 0.118916, Boundary Loss: 1.472299
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 400, Loss: 0.302446
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.012224, M: 0.290222, Boundary Loss: 1.314099
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 410, Loss: 0.284565
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.012986, M: 0.271579, Boundary Loss: 1.280073
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 420, Loss: 0.266799
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.013579, M: 0.253220, Boundary Loss: 1.591061
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 430, Loss: 0.265371
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.013961, M: 0.251410, Boundary Loss: 1.058108
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 440, Loss: 0.203782
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.014733, M: 0.189049, Boundary Loss: 1.048613
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 450, Loss: 0.304309
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.015537, M: 0.288772, Boundary Loss: 0.872573
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 460, Loss: 0.138604
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.018368, M: 0.120236, Boundary Loss: 0.967323
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 470, Loss: 0.232904
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.018266, M: 0.214637, Boundary Loss: 0.616052
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 480, Loss: 0.243607
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.020497, M: 0.223110, Boundary Loss: 0.804900
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 490, Loss: 0.203310
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.021652, M: 0.181657, Boundary Loss: 0.347765
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 500, Loss: 0.174644
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.025988, M: 0.148656, Boundary Loss: 0.346449
+2025-12-08 22:00:40 | INFO     | pinn:92 - Epoch 510, Loss: 0.330277
+2025-12-08 22:00:40 | INFO     | pinn:93 -   Constraint Loss: 0.022922, M: 0.307355, Boundary Loss: 0.116428
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 520, Loss: 0.319951
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.024590, M: 0.295360, Boundary Loss: 0.109267
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 530, Loss: 0.180680
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.028460, M: 0.152220, Boundary Loss: 0.467360
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 540, Loss: 0.171515
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.023126, M: 0.148389, Boundary Loss: 0.188382
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 550, Loss: 0.251454
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.021411, M: 0.230042, Boundary Loss: 0.028436
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 560, Loss: 0.250010
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.018592, M: 0.231419, Boundary Loss: 0.206614
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 570, Loss: 0.192347
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.021067, M: 0.171280, Boundary Loss: 0.033605
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 580, Loss: 0.148063
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.015855, M: 0.132209, Boundary Loss: 0.064157
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 590, Loss: 0.168773
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.017638, M: 0.151135, Boundary Loss: 0.038482
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 600, Loss: 0.368183
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.013284, M: 0.354899, Boundary Loss: 0.253026
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 610, Loss: 0.115178
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.013153, M: 0.102026, Boundary Loss: 0.028284
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 620, Loss: 0.116339
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.012192, M: 0.104148, Boundary Loss: 0.042431
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 630, Loss: 0.107309
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.012889, M: 0.094420, Boundary Loss: 0.063505
+2025-12-08 22:00:41 | INFO     | pinn:92 - Epoch 640, Loss: 0.231237
+2025-12-08 22:00:41 | INFO     | pinn:93 -   Constraint Loss: 0.010412, M: 0.220825, Boundary Loss: 0.118313
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 650, Loss: 0.091604
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.010328, M: 0.081276, Boundary Loss: 0.031598
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 660, Loss: 0.123602
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.010745, M: 0.112857, Boundary Loss: 0.186276
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 670, Loss: 0.123842
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.009212, M: 0.114631, Boundary Loss: 0.265089
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 680, Loss: 0.222382
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.009009, M: 0.213373, Boundary Loss: 0.025725
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 690, Loss: 0.371591
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.010075, M: 0.361517, Boundary Loss: 0.052926
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 700, Loss: 0.077324
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.008204, M: 0.069120, Boundary Loss: 0.017817
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 710, Loss: 0.057592
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.006949, M: 0.050643, Boundary Loss: 0.042284
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 720, Loss: 0.218938
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.007612, M: 0.211326, Boundary Loss: 0.024611
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 730, Loss: 0.094208
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.007139, M: 0.087068, Boundary Loss: 0.024710
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 740, Loss: 0.057243
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.008345, M: 0.048898, Boundary Loss: 0.042923
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 750, Loss: 0.071883
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.006400, M: 0.065483, Boundary Loss: 0.018098
+2025-12-08 22:00:42 | INFO     | pinn:92 - Epoch 760, Loss: 0.060639
+2025-12-08 22:00:42 | INFO     | pinn:93 -   Constraint Loss: 0.006254, M: 0.054385, Boundary Loss: 0.012482
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 770, Loss: 0.085324
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.006261, M: 0.079062, Boundary Loss: 0.102005
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 780, Loss: 0.058953
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.006355, M: 0.052598, Boundary Loss: 0.021923
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 790, Loss: 0.175182
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.006055, M: 0.169127, Boundary Loss: 0.050400
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 800, Loss: 0.076378
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.005981, M: 0.070397, Boundary Loss: 0.044194
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 810, Loss: 0.089829
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.005676, M: 0.084153, Boundary Loss: 0.072215
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 820, Loss: 0.148589
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.006150, M: 0.142439, Boundary Loss: 0.022061
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 830, Loss: 0.106794
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.005011, M: 0.101783, Boundary Loss: 0.033215
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 840, Loss: 0.372645
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.005895, M: 0.366750, Boundary Loss: 0.185525
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 850, Loss: 0.213411
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.004468, M: 0.208943, Boundary Loss: 0.226313
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 860, Loss: 0.168180
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.004600, M: 0.163580, Boundary Loss: 0.014356
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 870, Loss: 0.068088
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.005134, M: 0.062954, Boundary Loss: 0.114775
+2025-12-08 22:00:43 | INFO     | pinn:92 - Epoch 880, Loss: 0.090708
+2025-12-08 22:00:43 | INFO     | pinn:93 -   Constraint Loss: 0.004549, M: 0.086159, Boundary Loss: 0.020440
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 890, Loss: 0.166146
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.004474, M: 0.161672, Boundary Loss: 0.020278
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 900, Loss: 0.074379
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003987, M: 0.070391, Boundary Loss: 0.047879
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 910, Loss: 0.133274
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.004194, M: 0.129080, Boundary Loss: 0.218020
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 920, Loss: 0.095062
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.004161, M: 0.090901, Boundary Loss: 0.032050
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 930, Loss: 0.133644
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.004061, M: 0.129582, Boundary Loss: 0.015678
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 940, Loss: 0.065181
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003704, M: 0.061477, Boundary Loss: 0.170054
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 950, Loss: 0.402715
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003871, M: 0.398844, Boundary Loss: 0.179725
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 960, Loss: 0.053846
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003875, M: 0.049971, Boundary Loss: 0.109800
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 970, Loss: 0.117318
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003165, M: 0.114153, Boundary Loss: 0.137000
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 980, Loss: 0.077069
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003545, M: 0.073524, Boundary Loss: 0.074389
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 990, Loss: 0.052883
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003473, M: 0.049410, Boundary Loss: 0.068782
+2025-12-08 22:00:44 | INFO     | pinn:92 - Epoch 1000, Loss: 0.074293
+2025-12-08 22:00:44 | INFO     | pinn:93 -   Constraint Loss: 0.003794, M: 0.070499, Boundary Loss: 0.017234
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1010, Loss: 0.132257
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.003751, M: 0.128506, Boundary Loss: 0.096268
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1020, Loss: 0.055403
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.003807, M: 0.051597, Boundary Loss: 0.048436
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1030, Loss: 0.042746
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.003406, M: 0.039340, Boundary Loss: 0.094422
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1040, Loss: 0.047104
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.003298, M: 0.043806, Boundary Loss: 0.016220
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1050, Loss: 0.034482
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002902, M: 0.031579, Boundary Loss: 0.178659
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1060, Loss: 0.087122
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.003272, M: 0.083850, Boundary Loss: 0.034446
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1070, Loss: 0.097585
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002748, M: 0.094837, Boundary Loss: 0.120882
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1080, Loss: 0.042579
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002744, M: 0.039835, Boundary Loss: 0.147554
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1090, Loss: 0.036599
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002857, M: 0.033743, Boundary Loss: 0.010614
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1100, Loss: 0.048671
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002818, M: 0.045853, Boundary Loss: 0.043586
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1110, Loss: 0.057195
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002280, M: 0.054914, Boundary Loss: 0.149662
+2025-12-08 22:00:45 | INFO     | pinn:92 - Epoch 1120, Loss: 0.328267
+2025-12-08 22:00:45 | INFO     | pinn:93 -   Constraint Loss: 0.002511, M: 0.325757, Boundary Loss: 0.131746
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1130, Loss: 0.092567
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002697, M: 0.089869, Boundary Loss: 0.013035
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1140, Loss: 0.035140
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002398, M: 0.032741, Boundary Loss: 0.083027
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1150, Loss: 0.031390
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002195, M: 0.029195, Boundary Loss: 0.022186
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1160, Loss: 0.151870
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002372, M: 0.149497, Boundary Loss: 0.047924
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1170, Loss: 0.175398
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002522, M: 0.172876, Boundary Loss: 0.062268
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1180, Loss: 0.117232
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002174, M: 0.115058, Boundary Loss: 0.014497
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1190, Loss: 0.102414
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002272, M: 0.100143, Boundary Loss: 0.036656
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1200, Loss: 0.060983
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002290, M: 0.058693, Boundary Loss: 0.013836
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1210, Loss: 0.105791
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.001990, M: 0.103801, Boundary Loss: 0.088759
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1220, Loss: 0.051814
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.002369, M: 0.049445, Boundary Loss: 0.025051
+2025-12-08 22:00:46 | INFO     | pinn:92 - Epoch 1230, Loss: 0.081476
+2025-12-08 22:00:46 | INFO     | pinn:93 -   Constraint Loss: 0.001944, M: 0.079532, Boundary Loss: 0.013665
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1240, Loss: 0.157872
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.002211, M: 0.155661, Boundary Loss: 0.100257
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1250, Loss: 0.072135
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.002360, M: 0.069775, Boundary Loss: 0.010028
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1260, Loss: 0.036497
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.002167, M: 0.034330, Boundary Loss: 0.099189
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1270, Loss: 0.107865
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001989, M: 0.105876, Boundary Loss: 0.012421
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1280, Loss: 0.037603
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.002117, M: 0.035486, Boundary Loss: 0.026382
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1290, Loss: 0.071640
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001817, M: 0.069823, Boundary Loss: 0.037620
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1300, Loss: 0.035509
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001924, M: 0.033586, Boundary Loss: 0.021447
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1310, Loss: 0.033965
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001895, M: 0.032070, Boundary Loss: 0.024360
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1320, Loss: 0.047151
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001875, M: 0.045276, Boundary Loss: 0.022741
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1330, Loss: 0.139693
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.002097, M: 0.137595, Boundary Loss: 0.018542
+2025-12-08 22:00:47 | INFO     | pinn:92 - Epoch 1340, Loss: 0.028848
+2025-12-08 22:00:47 | INFO     | pinn:93 -   Constraint Loss: 0.001497, M: 0.027350, Boundary Loss: 0.090245
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1350, Loss: 0.077021
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001854, M: 0.075167, Boundary Loss: 0.086037
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1360, Loss: 0.039259
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001924, M: 0.037335, Boundary Loss: 0.072589
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1370, Loss: 0.067929
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001825, M: 0.066104, Boundary Loss: 0.035986
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1380, Loss: 0.029423
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001886, M: 0.027537, Boundary Loss: 0.011321
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1390, Loss: 0.042945
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001754, M: 0.041191, Boundary Loss: 0.015802
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1400, Loss: 0.066747
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001713, M: 0.065034, Boundary Loss: 0.046208
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1410, Loss: 0.054332
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001802, M: 0.052530, Boundary Loss: 0.079617
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1420, Loss: 0.066369
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001332, M: 0.065037, Boundary Loss: 0.067442
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1430, Loss: 0.062041
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001770, M: 0.060271, Boundary Loss: 0.084032
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1440, Loss: 0.037279
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001539, M: 0.035740, Boundary Loss: 0.033010
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1450, Loss: 0.098463
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001669, M: 0.096794, Boundary Loss: 0.118004
+2025-12-08 22:00:48 | INFO     | pinn:92 - Epoch 1460, Loss: 0.079633
+2025-12-08 22:00:48 | INFO     | pinn:93 -   Constraint Loss: 0.001346, M: 0.078286, Boundary Loss: 0.048046
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1470, Loss: 0.051072
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001598, M: 0.049473, Boundary Loss: 0.043394
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1480, Loss: 0.185051
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001652, M: 0.183399, Boundary Loss: 0.062106
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1490, Loss: 0.043804
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001244, M: 0.042560, Boundary Loss: 0.051904
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1500, Loss: 0.075030
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001287, M: 0.073743, Boundary Loss: 0.133534
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1510, Loss: 0.098408
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001219, M: 0.097189, Boundary Loss: 0.106046
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1520, Loss: 0.072012
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001489, M: 0.070524, Boundary Loss: 0.062944
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1530, Loss: 0.063506
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001263, M: 0.062243, Boundary Loss: 0.020791
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1540, Loss: 0.064083
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001348, M: 0.062735, Boundary Loss: 0.075429
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1550, Loss: 0.065688
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001445, M: 0.064243, Boundary Loss: 0.089664
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1560, Loss: 0.034055
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001324, M: 0.032730, Boundary Loss: 0.019859
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1570, Loss: 0.037211
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001340, M: 0.035871, Boundary Loss: 0.014460
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1580, Loss: 0.087803
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001203, M: 0.086599, Boundary Loss: 0.318871
+2025-12-08 22:00:49 | INFO     | pinn:92 - Epoch 1590, Loss: 0.041071
+2025-12-08 22:00:49 | INFO     | pinn:93 -   Constraint Loss: 0.001364, M: 0.039707, Boundary Loss: 0.102289
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1600, Loss: 0.041741
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001267, M: 0.040474, Boundary Loss: 0.018097
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1610, Loss: 0.051576
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001338, M: 0.050238, Boundary Loss: 0.013368
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1620, Loss: 0.120831
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001210, M: 0.119621, Boundary Loss: 0.033277
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1630, Loss: 0.041347
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001212, M: 0.040135, Boundary Loss: 0.055576
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1640, Loss: 0.035319
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001114, M: 0.034206, Boundary Loss: 0.114012
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1650, Loss: 0.080474
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001404, M: 0.079070, Boundary Loss: 0.126894
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1660, Loss: 0.042554
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001028, M: 0.041525, Boundary Loss: 0.019931
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1670, Loss: 0.065675
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001181, M: 0.064493, Boundary Loss: 0.052357
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1680, Loss: 0.056227
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001069, M: 0.055157, Boundary Loss: 0.019486
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1690, Loss: 0.136262
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001133, M: 0.135129, Boundary Loss: 0.011809
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1700, Loss: 0.050439
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.001038, M: 0.049401, Boundary Loss: 0.014982
+2025-12-08 22:00:50 | INFO     | pinn:92 - Epoch 1710, Loss: 0.103102
+2025-12-08 22:00:50 | INFO     | pinn:93 -   Constraint Loss: 0.000916, M: 0.102186, Boundary Loss: 0.021711
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1720, Loss: 0.083478
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001153, M: 0.082325, Boundary Loss: 0.096856
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1730, Loss: 0.033395
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001090, M: 0.032305, Boundary Loss: 0.029422
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1740, Loss: 0.087252
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000975, M: 0.086276, Boundary Loss: 0.015439
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1750, Loss: 0.127714
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001030, M: 0.126685, Boundary Loss: 0.132150
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1760, Loss: 0.027546
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000840, M: 0.026705, Boundary Loss: 0.061085
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1770, Loss: 0.035671
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001083, M: 0.034589, Boundary Loss: 0.188025
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1780, Loss: 0.056164
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001022, M: 0.055142, Boundary Loss: 0.019033
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1790, Loss: 0.062542
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000907, M: 0.061635, Boundary Loss: 0.022638
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1800, Loss: 0.095392
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000941, M: 0.094451, Boundary Loss: 0.110306
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1810, Loss: 0.141465
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.001116, M: 0.140348, Boundary Loss: 0.013055
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1820, Loss: 0.172857
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000887, M: 0.171970, Boundary Loss: 0.023978
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1830, Loss: 0.201768
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000992, M: 0.200776, Boundary Loss: 0.010599
+2025-12-08 22:00:51 | INFO     | pinn:92 - Epoch 1840, Loss: 0.196575
+2025-12-08 22:00:51 | INFO     | pinn:93 -   Constraint Loss: 0.000927, M: 0.195648, Boundary Loss: 0.088910
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1850, Loss: 0.167235
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000798, M: 0.166437, Boundary Loss: 0.093981
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1860, Loss: 0.212378
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000809, M: 0.211568, Boundary Loss: 0.524692
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1870, Loss: 0.028413
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000763, M: 0.027650, Boundary Loss: 0.022598
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1880, Loss: 0.143936
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000777, M: 0.143159, Boundary Loss: 0.023317
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1890, Loss: 0.071794
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000906, M: 0.070888, Boundary Loss: 0.040389
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1900, Loss: 0.160150
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000884, M: 0.159266, Boundary Loss: 0.019374
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1910, Loss: 0.066393
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000845, M: 0.065548, Boundary Loss: 0.044698
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1920, Loss: 0.104846
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000905, M: 0.103941, Boundary Loss: 0.041317
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1930, Loss: 0.111956
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000672, M: 0.111284, Boundary Loss: 0.060545
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1940, Loss: 0.038326
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000788, M: 0.037538, Boundary Loss: 0.016832
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1950, Loss: 0.065693
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000874, M: 0.064819, Boundary Loss: 0.013960
+2025-12-08 22:00:52 | INFO     | pinn:92 - Epoch 1960, Loss: 0.047806
+2025-12-08 22:00:52 | INFO     | pinn:93 -   Constraint Loss: 0.000922, M: 0.046885, Boundary Loss: 0.098943
+2025-12-08 22:00:53 | INFO     | pinn:92 - Epoch 1970, Loss: 0.039415
+2025-12-08 22:00:53 | INFO     | pinn:93 -   Constraint Loss: 0.000830, M: 0.038584, Boundary Loss: 0.168781
+2025-12-08 22:00:53 | INFO     | pinn:92 - Epoch 1980, Loss: 0.064300
+2025-12-08 22:00:53 | INFO     | pinn:93 -   Constraint Loss: 0.000727, M: 0.063573, Boundary Loss: 0.047879
+2025-12-08 22:00:53 | INFO     | pinn:92 - Epoch 1990, Loss: 0.063830
+2025-12-08 22:00:53 | INFO     | pinn:93 -   Constraint Loss: 0.000809, M: 0.063022, Boundary Loss: 0.029878
+2025-12-08 22:00:53 | INFO     | pinn:98 - ✅ 模型参数已保存到: ./models\pinn_model.pth
+2025-12-08 22:00:53 | INFO     | pinn:106 - ✅ 损失曲线已保存: ./logs\loss_curve.png
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 0, Loss: 31.638720
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 31.231636, M: 0.407084, Boundary Loss: 44.344917
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 10, Loss: 30.032907
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 29.414707, M: 0.618199, Boundary Loss: 27.582415
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 20, Loss: 23.533703
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 23.073105, M: 0.460599, Boundary Loss: 11.435470
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 30, Loss: 13.712782
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 13.008736, M: 0.704046, Boundary Loss: 5.107182
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 40, Loss: 3.636398
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 3.163614, M: 0.472784, Boundary Loss: 1.769650
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 50, Loss: 1.340255
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 0.433066, M: 0.907189, Boundary Loss: 1.953324
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 60, Loss: 0.867428
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 0.126420, M: 0.741008, Boundary Loss: 1.688251
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 70, Loss: 0.649769
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 0.070008, M: 0.579760, Boundary Loss: 1.987896
+2025-12-08 22:03:58 | INFO     | pinn:92 - Epoch 80, Loss: 0.291046
+2025-12-08 22:03:58 | INFO     | pinn:93 -   Constraint Loss: 0.052589, M: 0.238457, Boundary Loss: 2.047238
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 90, Loss: 0.367980
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.045083, M: 0.322897, Boundary Loss: 1.633789
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 100, Loss: 0.458897
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.042335, M: 0.416562, Boundary Loss: 1.683794
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 110, Loss: 0.426682
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.038422, M: 0.388260, Boundary Loss: 1.617876
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 120, Loss: 0.229422
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.035300, M: 0.194122, Boundary Loss: 2.077876
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 130, Loss: 0.500769
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.032804, M: 0.467965, Boundary Loss: 1.688634
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 140, Loss: 0.597236
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.031120, M: 0.566116, Boundary Loss: 1.652366
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 150, Loss: 0.192209
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.028746, M: 0.163463, Boundary Loss: 1.674398
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 160, Loss: 0.139274
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.027108, M: 0.112166, Boundary Loss: 1.521095
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 170, Loss: 0.228908
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.025496, M: 0.203412, Boundary Loss: 1.924766
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 180, Loss: 0.301612
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.023861, M: 0.277751, Boundary Loss: 1.641433
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 190, Loss: 0.202293
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.022737, M: 0.179556, Boundary Loss: 2.497522
+2025-12-08 22:03:59 | INFO     | pinn:92 - Epoch 200, Loss: 0.693092
+2025-12-08 22:03:59 | INFO     | pinn:93 -   Constraint Loss: 0.021363, M: 0.671729, Boundary Loss: 1.689415
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 210, Loss: 0.339296
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.020023, M: 0.319273, Boundary Loss: 1.638322
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 220, Loss: 0.148362
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.018989, M: 0.129373, Boundary Loss: 1.836122
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 230, Loss: 0.311510
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.018202, M: 0.293308, Boundary Loss: 1.655970
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 240, Loss: 0.195547
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.017344, M: 0.178203, Boundary Loss: 1.915951
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 250, Loss: 0.148274
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.016550, M: 0.131724, Boundary Loss: 1.734130
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 260, Loss: 0.548156
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.016104, M: 0.532052, Boundary Loss: 1.637101
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 270, Loss: 0.280020
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.015227, M: 0.264793, Boundary Loss: 1.900835
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 280, Loss: 0.133068
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.014580, M: 0.118488, Boundary Loss: 1.929165
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 290, Loss: 0.412031
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.013964, M: 0.398067, Boundary Loss: 2.121280
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 300, Loss: 0.294954
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.013351, M: 0.281602, Boundary Loss: 1.807063
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 310, Loss: 0.222953
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.012912, M: 0.210041, Boundary Loss: 1.557677
+2025-12-08 22:04:00 | INFO     | pinn:92 - Epoch 320, Loss: 0.267880
+2025-12-08 22:04:00 | INFO     | pinn:93 -   Constraint Loss: 0.012490, M: 0.255391, Boundary Loss: 1.791456
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 330, Loss: 0.477882
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.012068, M: 0.465815, Boundary Loss: 1.676023
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 340, Loss: 0.223120
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.011567, M: 0.211553, Boundary Loss: 1.580289
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 350, Loss: 0.127381
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.011265, M: 0.116116, Boundary Loss: 1.698914
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 360, Loss: 0.212164
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.010804, M: 0.201360, Boundary Loss: 1.591591
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 370, Loss: 0.185668
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.010527, M: 0.175141, Boundary Loss: 1.700470
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 380, Loss: 0.412826
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.010290, M: 0.402535, Boundary Loss: 1.590993
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 390, Loss: 0.143699
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.009886, M: 0.133813, Boundary Loss: 1.620230
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 400, Loss: 0.160740
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.009634, M: 0.151106, Boundary Loss: 1.697802
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 410, Loss: 0.665496
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.009401, M: 0.656095, Boundary Loss: 1.917935
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 420, Loss: 0.150898
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.009273, M: 0.141626, Boundary Loss: 1.975969
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 430, Loss: 0.209394
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.009037, M: 0.200357, Boundary Loss: 1.762804
+2025-12-08 22:04:01 | INFO     | pinn:92 - Epoch 440, Loss: 0.827317
+2025-12-08 22:04:01 | INFO     | pinn:93 -   Constraint Loss: 0.008927, M: 0.818390, Boundary Loss: 1.484498
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 450, Loss: 0.417407
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008728, M: 0.408679, Boundary Loss: 1.637316
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 460, Loss: 0.183969
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008613, M: 0.175356, Boundary Loss: 1.828242
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 470, Loss: 0.178076
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008462, M: 0.169614, Boundary Loss: 1.466425
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 480, Loss: 0.139485
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008402, M: 0.131083, Boundary Loss: 1.578747
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 490, Loss: 0.157146
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008448, M: 0.148698, Boundary Loss: 1.414690
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 500, Loss: 0.155745
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008339, M: 0.147406, Boundary Loss: 1.557339
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 510, Loss: 0.151516
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008395, M: 0.143120, Boundary Loss: 1.583821
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 520, Loss: 0.206419
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008492, M: 0.197928, Boundary Loss: 1.321995
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 530, Loss: 0.222425
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.008820, M: 0.213605, Boundary Loss: 1.263916
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 540, Loss: 0.373500
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.009183, M: 0.364317, Boundary Loss: 1.379467
+2025-12-08 22:04:02 | INFO     | pinn:92 - Epoch 550, Loss: 0.185405
+2025-12-08 22:04:02 | INFO     | pinn:93 -   Constraint Loss: 0.009528, M: 0.175876, Boundary Loss: 1.516860
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 560, Loss: 0.265885
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.009621, M: 0.256264, Boundary Loss: 1.169976
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 570, Loss: 0.158005
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.010414, M: 0.147591, Boundary Loss: 1.082265
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 580, Loss: 0.536958
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.011422, M: 0.525535, Boundary Loss: 0.955615
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 590, Loss: 0.222855
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.012146, M: 0.210709, Boundary Loss: 0.846850
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 600, Loss: 0.230506
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.012861, M: 0.217645, Boundary Loss: 0.507558
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 610, Loss: 0.266994
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.013710, M: 0.253283, Boundary Loss: 0.491838
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 620, Loss: 0.161296
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.017890, M: 0.143406, Boundary Loss: 0.466276
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 630, Loss: 0.428674
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.016658, M: 0.412017, Boundary Loss: 0.636189
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 640, Loss: 0.293266
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.025895, M: 0.267371, Boundary Loss: 0.460180
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 650, Loss: 0.176817
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.024850, M: 0.151966, Boundary Loss: 0.108493
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 660, Loss: 0.440372
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.027946, M: 0.412426, Boundary Loss: 0.074682
+2025-12-08 22:04:03 | INFO     | pinn:92 - Epoch 670, Loss: 0.141808
+2025-12-08 22:04:03 | INFO     | pinn:93 -   Constraint Loss: 0.028911, M: 0.112896, Boundary Loss: 0.032061
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 680, Loss: 0.132336
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.023175, M: 0.109161, Boundary Loss: 0.106572
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 690, Loss: 0.455302
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.020470, M: 0.434832, Boundary Loss: 0.100379
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 700, Loss: 0.174534
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.014671, M: 0.159863, Boundary Loss: 0.068415
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 710, Loss: 0.319171
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.015484, M: 0.303687, Boundary Loss: 0.056848
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 720, Loss: 0.098185
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.014641, M: 0.083543, Boundary Loss: 0.037959
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 730, Loss: 0.312883
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.013637, M: 0.299246, Boundary Loss: 0.104929
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 740, Loss: 0.264261
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.011148, M: 0.253113, Boundary Loss: 0.075681
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 750, Loss: 0.080990
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.014302, M: 0.066687, Boundary Loss: 0.033464
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 760, Loss: 0.206890
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.011794, M: 0.195096, Boundary Loss: 0.038144
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 770, Loss: 0.233302
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.012946, M: 0.220356, Boundary Loss: 0.151057
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 780, Loss: 0.328017
+2025-12-08 22:04:04 | INFO     | pinn:93 -   Constraint Loss: 0.008280, M: 0.319737, Boundary Loss: 0.070057
+2025-12-08 22:04:04 | INFO     | pinn:92 - Epoch 790, Loss: 0.263851
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.010599, M: 0.253252, Boundary Loss: 0.034420
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 800, Loss: 0.239724
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.008647, M: 0.231077, Boundary Loss: 0.083395
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 810, Loss: 0.298881
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.006493, M: 0.292388, Boundary Loss: 0.029286
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 820, Loss: 0.096097
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.006926, M: 0.089171, Boundary Loss: 0.041901
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 830, Loss: 0.257598
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.007367, M: 0.250230, Boundary Loss: 0.043849
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 840, Loss: 0.363308
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.007248, M: 0.356061, Boundary Loss: 0.202232
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 850, Loss: 0.129035
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.006042, M: 0.122993, Boundary Loss: 0.033014
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 860, Loss: 0.103577
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.006404, M: 0.097173, Boundary Loss: 0.050582
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 870, Loss: 0.388089
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.007774, M: 0.380315, Boundary Loss: 0.038905
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 880, Loss: 0.068402
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.004437, M: 0.063965, Boundary Loss: 0.036798
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 890, Loss: 0.201918
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.006785, M: 0.195133, Boundary Loss: 0.016799
+2025-12-08 22:04:05 | INFO     | pinn:92 - Epoch 900, Loss: 0.146494
+2025-12-08 22:04:05 | INFO     | pinn:93 -   Constraint Loss: 0.004740, M: 0.141754, Boundary Loss: 0.147206
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 910, Loss: 0.077569
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.005106, M: 0.072463, Boundary Loss: 0.015514
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 920, Loss: 0.072466
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.006312, M: 0.066154, Boundary Loss: 0.168395
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 930, Loss: 0.227062
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.005614, M: 0.221448, Boundary Loss: 0.113001
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 940, Loss: 0.095324
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.005394, M: 0.089930, Boundary Loss: 0.091326
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 950, Loss: 0.077165
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.003885, M: 0.073280, Boundary Loss: 0.065555
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 960, Loss: 0.165139
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.004774, M: 0.160365, Boundary Loss: 0.015171
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 970, Loss: 0.168103
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.003630, M: 0.164473, Boundary Loss: 0.050091
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 980, Loss: 0.076430
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.004603, M: 0.071827, Boundary Loss: 0.123095
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 990, Loss: 0.097285
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.003780, M: 0.093505, Boundary Loss: 0.058329
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 1000, Loss: 0.198874
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.003688, M: 0.195186, Boundary Loss: 0.082256
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 1010, Loss: 0.319370
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.003493, M: 0.315877, Boundary Loss: 0.063086
+2025-12-08 22:04:06 | INFO     | pinn:92 - Epoch 1020, Loss: 0.064290
+2025-12-08 22:04:06 | INFO     | pinn:93 -   Constraint Loss: 0.004106, M: 0.060185, Boundary Loss: 0.016850
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1030, Loss: 0.040582
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003302, M: 0.037279, Boundary Loss: 0.039462
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1040, Loss: 0.121881
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.004250, M: 0.117631, Boundary Loss: 0.041216
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1050, Loss: 0.050257
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003063, M: 0.047194, Boundary Loss: 0.016461
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1060, Loss: 0.042901
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003353, M: 0.039548, Boundary Loss: 0.012584
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1070, Loss: 0.117269
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003522, M: 0.113747, Boundary Loss: 0.119259
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1080, Loss: 0.063778
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003216, M: 0.060562, Boundary Loss: 0.011155
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1090, Loss: 0.227023
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.002711, M: 0.224312, Boundary Loss: 0.037247
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1100, Loss: 0.054009
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003073, M: 0.050936, Boundary Loss: 0.012052
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1110, Loss: 0.126424
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.002826, M: 0.123598, Boundary Loss: 0.142970
+2025-12-08 22:04:07 | INFO     | pinn:92 - Epoch 1120, Loss: 0.217264
+2025-12-08 22:04:07 | INFO     | pinn:93 -   Constraint Loss: 0.003311, M: 0.213952, Boundary Loss: 0.055882
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1130, Loss: 0.103249
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002201, M: 0.101047, Boundary Loss: 0.032639
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1140, Loss: 0.062887
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.003299, M: 0.059588, Boundary Loss: 0.278628
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1150, Loss: 0.060671
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002270, M: 0.058401, Boundary Loss: 0.054454
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1160, Loss: 0.082968
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.003043, M: 0.079924, Boundary Loss: 0.037500
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1170, Loss: 0.054243
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002326, M: 0.051917, Boundary Loss: 0.027399
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1180, Loss: 0.051159
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002563, M: 0.048596, Boundary Loss: 0.013647
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1190, Loss: 0.150567
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002451, M: 0.148116, Boundary Loss: 0.012164
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1200, Loss: 0.074099
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002781, M: 0.071317, Boundary Loss: 0.052309
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1210, Loss: 0.066344
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002340, M: 0.064004, Boundary Loss: 0.030037
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1220, Loss: 0.072492
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002458, M: 0.070033, Boundary Loss: 0.015991
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1230, Loss: 0.055423
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002139, M: 0.053283, Boundary Loss: 0.047609
+2025-12-08 22:04:08 | INFO     | pinn:92 - Epoch 1240, Loss: 0.107604
+2025-12-08 22:04:08 | INFO     | pinn:93 -   Constraint Loss: 0.002620, M: 0.104984, Boundary Loss: 0.012187
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1250, Loss: 0.110090
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.002123, M: 0.107966, Boundary Loss: 0.025133
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1260, Loss: 0.077977
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.002041, M: 0.075935, Boundary Loss: 0.068693
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1270, Loss: 0.081378
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.002086, M: 0.079292, Boundary Loss: 0.027724
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1280, Loss: 0.139024
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.002108, M: 0.136916, Boundary Loss: 0.110308
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1290, Loss: 0.121253
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001873, M: 0.119380, Boundary Loss: 0.203823
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1300, Loss: 0.183120
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.002669, M: 0.180451, Boundary Loss: 0.430882
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1310, Loss: 0.054743
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001777, M: 0.052966, Boundary Loss: 0.288231
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1320, Loss: 0.057975
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001820, M: 0.056156, Boundary Loss: 0.098284
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1330, Loss: 0.110269
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001781, M: 0.108488, Boundary Loss: 0.042975
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1340, Loss: 0.130614
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001866, M: 0.128749, Boundary Loss: 0.043692
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1350, Loss: 0.061527
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001679, M: 0.059847, Boundary Loss: 0.089188
+2025-12-08 22:04:09 | INFO     | pinn:92 - Epoch 1360, Loss: 0.116105
+2025-12-08 22:04:09 | INFO     | pinn:93 -   Constraint Loss: 0.001872, M: 0.114234, Boundary Loss: 0.093308
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1370, Loss: 0.107308
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001751, M: 0.105557, Boundary Loss: 0.011698
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1380, Loss: 0.131297
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001600, M: 0.129697, Boundary Loss: 0.021452
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1390, Loss: 0.074373
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001468, M: 0.072905, Boundary Loss: 0.075613
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1400, Loss: 0.067836
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001693, M: 0.066143, Boundary Loss: 0.051584
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1410, Loss: 0.104748
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001912, M: 0.102836, Boundary Loss: 0.017280
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1420, Loss: 0.110228
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001559, M: 0.108668, Boundary Loss: 0.030020
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1430, Loss: 0.143396
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001467, M: 0.141929, Boundary Loss: 0.059562
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1440, Loss: 0.097009
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001520, M: 0.095489, Boundary Loss: 0.034053
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1450, Loss: 0.211758
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001695, M: 0.210063, Boundary Loss: 0.045080
+2025-12-08 22:04:10 | INFO     | pinn:92 - Epoch 1460, Loss: 0.040806
+2025-12-08 22:04:10 | INFO     | pinn:93 -   Constraint Loss: 0.001429, M: 0.039377, Boundary Loss: 0.072109
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1470, Loss: 0.075630
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001542, M: 0.074089, Boundary Loss: 0.024371
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1480, Loss: 0.043726
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001604, M: 0.042122, Boundary Loss: 0.016340
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1490, Loss: 0.136113
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001378, M: 0.134735, Boundary Loss: 0.076219
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1500, Loss: 0.166660
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001424, M: 0.165235, Boundary Loss: 0.013401
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1510, Loss: 0.059650
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001267, M: 0.058383, Boundary Loss: 0.017723
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1520, Loss: 0.218416
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001657, M: 0.216759, Boundary Loss: 0.022975
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1530, Loss: 0.037302
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001173, M: 0.036130, Boundary Loss: 0.068412
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1540, Loss: 0.030935
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001566, M: 0.029370, Boundary Loss: 0.023628
+2025-12-08 22:04:11 | INFO     | pinn:92 - Epoch 1550, Loss: 0.039989
+2025-12-08 22:04:11 | INFO     | pinn:93 -   Constraint Loss: 0.001366, M: 0.038622, Boundary Loss: 0.011594
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1560, Loss: 0.073935
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001355, M: 0.072579, Boundary Loss: 0.015858
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1570, Loss: 0.054464
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001572, M: 0.052892, Boundary Loss: 0.023204
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1580, Loss: 0.041335
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001349, M: 0.039986, Boundary Loss: 0.016081
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1590, Loss: 0.155867
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001217, M: 0.154650, Boundary Loss: 0.016753
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1600, Loss: 0.031923
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001214, M: 0.030709, Boundary Loss: 0.070551
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1610, Loss: 0.099906
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001231, M: 0.098675, Boundary Loss: 0.012775
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1620, Loss: 0.140995
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001509, M: 0.139487, Boundary Loss: 0.111907
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1630, Loss: 0.034804
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001139, M: 0.033665, Boundary Loss: 0.084551
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1640, Loss: 0.053658
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001238, M: 0.052420, Boundary Loss: 0.013042
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1650, Loss: 0.158223
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001134, M: 0.157089, Boundary Loss: 0.050741
+2025-12-08 22:04:12 | INFO     | pinn:92 - Epoch 1660, Loss: 0.169847
+2025-12-08 22:04:12 | INFO     | pinn:93 -   Constraint Loss: 0.001154, M: 0.168693, Boundary Loss: 0.021721
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1670, Loss: 0.111413
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001119, M: 0.110294, Boundary Loss: 0.007418
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1680, Loss: 0.028939
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.000982, M: 0.027957, Boundary Loss: 0.014999
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1690, Loss: 0.145557
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001023, M: 0.144534, Boundary Loss: 0.125411
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1700, Loss: 0.036596
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001406, M: 0.035190, Boundary Loss: 0.024029
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1710, Loss: 0.087231
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001093, M: 0.086138, Boundary Loss: 0.044384
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1720, Loss: 0.080558
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001064, M: 0.079494, Boundary Loss: 0.156753
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1730, Loss: 0.035350
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001071, M: 0.034278, Boundary Loss: 0.012220
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1740, Loss: 0.045376
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.000998, M: 0.044379, Boundary Loss: 0.010327
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1750, Loss: 0.132642
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.001177, M: 0.131464, Boundary Loss: 0.009570
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1760, Loss: 0.189839
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.000946, M: 0.188893, Boundary Loss: 0.047522
+2025-12-08 22:04:13 | INFO     | pinn:92 - Epoch 1770, Loss: 0.098350
+2025-12-08 22:04:13 | INFO     | pinn:93 -   Constraint Loss: 0.000915, M: 0.097435, Boundary Loss: 0.014740
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1780, Loss: 0.087327
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000917, M: 0.086410, Boundary Loss: 0.049088
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1790, Loss: 0.027700
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000955, M: 0.026745, Boundary Loss: 0.019468
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1800, Loss: 0.071838
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000942, M: 0.070895, Boundary Loss: 0.072380
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1810, Loss: 0.131564
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000987, M: 0.130577, Boundary Loss: 0.012136
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1820, Loss: 0.260830
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.001067, M: 0.259763, Boundary Loss: 0.184286
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1830, Loss: 0.072803
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000964, M: 0.071838, Boundary Loss: 0.013067
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1840, Loss: 0.051707
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000878, M: 0.050829, Boundary Loss: 0.013146
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1850, Loss: 0.132916
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000916, M: 0.132000, Boundary Loss: 0.053300
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1860, Loss: 0.162276
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000896, M: 0.161380, Boundary Loss: 0.074520
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1870, Loss: 0.033693
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000872, M: 0.032821, Boundary Loss: 0.056681
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1880, Loss: 0.096853
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000914, M: 0.095940, Boundary Loss: 0.012826
+2025-12-08 22:04:14 | INFO     | pinn:92 - Epoch 1890, Loss: 0.040820
+2025-12-08 22:04:14 | INFO     | pinn:93 -   Constraint Loss: 0.000788, M: 0.040032, Boundary Loss: 0.077837
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1900, Loss: 0.062256
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000925, M: 0.061331, Boundary Loss: 0.074319
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1910, Loss: 0.096647
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000798, M: 0.095849, Boundary Loss: 0.025024
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1920, Loss: 0.034494
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000993, M: 0.033501, Boundary Loss: 0.150900
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1930, Loss: 0.059760
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000914, M: 0.058847, Boundary Loss: 0.009038
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1940, Loss: 0.107911
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000812, M: 0.107099, Boundary Loss: 0.008592
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1950, Loss: 0.035809
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000903, M: 0.034906, Boundary Loss: 0.023514
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1960, Loss: 0.188897
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000712, M: 0.188185, Boundary Loss: 0.134061
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1970, Loss: 0.078753
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000778, M: 0.077975, Boundary Loss: 0.014759
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1980, Loss: 0.027800
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000712, M: 0.027088, Boundary Loss: 0.022244
+2025-12-08 22:04:15 | INFO     | pinn:92 - Epoch 1990, Loss: 0.036311
+2025-12-08 22:04:15 | INFO     | pinn:93 -   Constraint Loss: 0.000868, M: 0.035443, Boundary Loss: 0.021958
+2025-12-08 22:04:15 | INFO     | pinn:98 - ✅ 模型参数已保存到: ./models\pinn_model.pth
+2025-12-08 22:04:16 | INFO     | pinn:106 - ✅ 损失曲线已保存: ./logs\loss_curve.png

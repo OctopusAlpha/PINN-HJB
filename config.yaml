@@ -15,7 +15,7 @@ hidden_dims: [64, 64, 64, 64]
 output_dim: 42
 
 # 训练参数
-epochs: 10000
+epochs: 2000
 batch_size: 128
 
 # 设备（建议设为 "auto"，在代码中动态替换为 cuda/cpu）

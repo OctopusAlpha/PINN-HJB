@@ -1,6 +1,7 @@
 import pandas as pd
 from tqdm import tqdm
 import numpy as np
+import os
 
 def mle_gbm(prices, dt=1/252):
     log_returns = np.diff(np.log(prices))
@@ -16,7 +17,19 @@ def mle_gbm(prices, dt=1/252):
 
 def calculate_parements_stock(data_path, result_path=None, save_csv=False):
 
-    # 加载数据
+    # 如果不需要计算，直接加载参数文件
+    if not save_csv:
+        print(f"直接加载参数文件: {data_path}")
+        if not os.path.exists(data_path):
+            raise FileNotFoundError(f"参数文件不存在: {data_path}")
+        results_df = pd.read_csv(data_path, encoding="utf-8")
+        # 转换为字典列表格式
+        results = results_df.to_dict('records')
+        return results
+
+    # 需要计算参数：从原始数据计算
+    print("开始计算参数...")
+    # 加载原始数据
     if data_path.endswith('.csv'):
         df = pd.read_csv(data_path, encoding="utf-8")
     elif data_path.endswith('.xlsx') or data_path.endswith('.xlx'):
@@ -42,7 +55,7 @@ def calculate_parements_stock(data_path, result_path=None, save_csv=False):
             'sigma': sigma,
         })
     results_df = pd.DataFrame(results)
-    if save_csv and result_path:
+    if result_path:
         results_df.to_csv(result_path, index=False)
         print(f"\n所有股票参数优化完成，结果已保存至 '{result_path}'")
 

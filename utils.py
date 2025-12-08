@@ -2,14 +2,25 @@ import yaml
 import torch
 import logging
 import os
+from types import SimpleNamespace
 from logging.handlers import RotatingFileHandler
+
+def _dict_to_namespace(d):
+    """递归将字典转换为 SimpleNamespace 对象"""
+    if isinstance(d, dict):
+        return SimpleNamespace(**{k: _dict_to_namespace(v) for k, v in d.items()})
+    elif isinstance(d, list):
+        return [_dict_to_namespace(item) for item in d]
+    else:
+        return d
 
 def load_yaml(path):
     with open(path, 'r', encoding='utf-8') as f:
         cfg = yaml.safe_load(f)
     if cfg['device'] == 'auto':
         cfg['device'] = 'cuda' if torch.cuda.is_available() else 'cpu'
-    return cfg
+    # 将字典转换为可以使用点号访问的对象
+    return _dict_to_namespace(cfg)
 
 def get_logger(name: str, log_file: str = None, level=logging.INFO, max_bytes=10*1024*1024, backup_count=5):
     """

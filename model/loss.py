@@ -1,5 +1,6 @@
 import torch
 import torch.autograd as autograd
+import math
 
 # 常量定义
 THETA = 0.7
@@ -71,13 +72,13 @@ def _compute_boundary_value(phi, w, r, theta=THETA):
 def pinn_loss(model, x, sigma,mu, x_scalar,S,device):
     # x: [batch_size, input_dim]
     x.requires_grad_(True)
-    output = model(x)  # [batch_size, 1 + 40]
+    output = model(x)  # [batch_size, output_dim] = [batch_size, 42]
     V = output[:, 0:1] 
     # V = torch.abs(V) # [batch_size, 1]
     ''' 输出的pi只能为非负且和为1'''
-    raw_pi = output[:, 1:]  # [batch_size, 40]
+    raw_pi = output[:, 1:]  # [batch_size, 41]
     pi = torch.softmax(raw_pi, dim=1) 
-    pi = pi [:,:-1]   
+    pi = pi [:,:-1]   # [batch_size, 40] 去掉最后一个，保留40个资产的权重   
     # print(pi.shape)          # 保证权重合理
     # print(output)
     # --------- 计算 V_wr ---------
@@ -110,11 +111,16 @@ def pinn_loss(model, x, sigma,mu, x_scalar,S,device):
 
 
     '''计算 HJB 残差''' 
+    # pi 是 [batch_size, n_pi_assets]，需要切片 mu 和 sigma 以匹配 pi 的维度
+    n_pi_assets = pi.shape[1]  # pi 的实际维度
+    mu_pi = mu[:n_pi_assets]  # 匹配 pi 的维度
+    sigma_pi = sigma[:n_pi_assets]  # 匹配 pi 的维度
+    
     M = (V_t 
-         + V_w * w * (pi @ mu + (1 - pi.sum(dim=1)) * r - Cc) 
+         + V_w * w * (pi @ mu_pi + (1 - pi.sum(dim=1)) * r - Cc) 
          + 0.5 * SIGEMAR**2 * V_rr 
          + V_ww * (
-             0.5 * (pi * sigma).sum()**2 
+             0.5 * (pi * sigma_pi).sum(dim=1)**2 
              + 0.5 * ((1 - pi.sum(dim=1)) * w * AA)**2 
              + (1 - pi.sum(dim=1)) * w**2 
          )
@@ -128,12 +134,13 @@ def pinn_loss(model, x, sigma,mu, x_scalar,S,device):
     boundary_loss = abs((V - tt).mean())
 
     '''计算 pi 约束 loss''' #还要固定其最大以及最小值
-    pi_sigma = torch.sum(pi * sigma, dim=1, keepdim=True)  # [batch_size, 1]
+    # sigma_pi 已在上面定义，直接使用（维度已匹配）
+    pi_sigma = torch.sum(pi * sigma_pi, dim=1, keepdim=True)  # [batch_size, 1]
     rhs = 0.5 * V_wr.unsqueeze(1) * x_scalar  # [batch_size, 1]
     constraint_loss = ((pi_sigma - rhs) ** 2).mean()
     constraint_loss = abs(100*constraint_loss) 
-    if constraint_loss.item() == "nan":
-        print(constraint_loss)
+    if math.isnan(constraint_loss.item()):
+        print(f"constraint_loss is NaN: {constraint_loss}")
 
     # 可加更多损失项，比如 HJB残差、边界条件等
     return constraint_loss + M.mean() , constraint_loss, M.mean(), V, pi
