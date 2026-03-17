@@ -1,0 +1,58 @@
+# ===== 数据目录（体积大，不纳入版本控制）=====
+data/A股5000+股票历史日数据2026227/
+data/*.xlsx
+data/*.xls
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+.env
+.uv/
+
+# ===== uv 锁文件（可选：如不希望锁定版本则忽略）=====
+# uv.lock
+
+# ===== 训练模型权重（大文件，按需追踪）=====
+pinn_model/models/*.pth
+
+# ===== 训练日志图片（可再生，不纳入追踪）=====
+pinn_model/logs/*.png
+pinn_model/logs/*.csv
+pinn_model/logs/*.log
+
+# ===== 输出结果（可再生）=====
+outputs/
+
+# ===== 优化中间结果（超大CSV）=====
+pinn_model/optimized_pop.csv
+
+# ===== IDE / 编辑器 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb
+
+# ===== 测试 / 覆盖率 =====
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== 构建产物 =====
+dist/
+build/
+*.egg-info/

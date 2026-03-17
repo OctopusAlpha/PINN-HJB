@@ -1,0 +1,24 @@
+# HJB Solver Project Requirements
+# Generated from codebase analysis
+
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Deep learning (PINN)
+torch>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Configuration
+pyyaml>=6.0
+
+# Optional: for enhanced terminal output
+colorama>=0.4.6

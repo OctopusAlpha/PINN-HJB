@@ -1,0 +1,35 @@
+# 参数计算
+## 股票 GBM 参数：false=直接加载CSV，true=从真实日频数据重新估计并保存
+needing_calculate: false
+# csv_path: data/raw/stock_ga_parameters_new.csv
+# result_path: data/raw/stock_ga_parameters_new.csv
+csv_path: data/raw/stock_ga_parameters_seed72.csv
+result_path: data/raw/stock_ga_parameters_seed72.csv
+
+## 利率 OU 参数：false=跳过估计，true=从SHIBOR数据估计并打印
+needing_calculate_rate: false
+shibor_path: c:/Users/zzy/Desktop/毕业论文2.23/code/data/1997-2026年银行间同业拆借利率数据.xlsx
+rate_result_path: data/raw/rate_ou_parameters.csv
+
+## 股票日频数据目录（needing_calculate=true 时需要）
+stock_dir: c:/Users/zzy/Desktop/毕业论文2.23/code/data/A股5000+股票历史日数据2026227
+gbm_lookback_days: 252
+n_assets: 40
+
+# 路径配置
+log_dir: ./logs
+log_name: pinn
+model_dir: ./models
+
+# 模型结构
+train: True
+input_dim: 3
+hidden_dims: [64, 64, 128, 64, 64]
+output_dim: 42 #42
+
+# 训练参数
+epochs: 1000
+batch_size: 128
+
+# 设备（建议设为 "auto"，在代码中动态替换为 cuda/cpu）
+device: auto

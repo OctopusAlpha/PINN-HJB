@@ -1,0 +1,8 @@
+效用函数
+$$U(t, x) = \frac{1}{\theta} \psi(t)^{1-\theta} x^{\theta}$$
+折现因子
+$$\psi(t) = \exp \left\{ -\frac{1}{1 - \theta} \int_{0}^{t} \left[ \phi_0 + \phi_1 \left( \frac{1}{n} \sum_{i=1}^{n} S_i(u) \right) + \phi_2 \left( \frac{1}{n} \sum_{i=1}^{n} S_i(u) \right)^2 \right] du \right\}$$
+HJB
+$$V_t + (\alpha - \beta r_t)V_r + \frac{1}{2}\sigma_r^2 V_{rr} + \max_{x,c \in \mathcal{Z}} \left\{ [X_t \pi_t \mu_t + (1 - \pi_t)X_t r_t - C_t]V_x + [(\pi_t \sigma_t)^2 + (1 - \pi_t)^2 A^2] \frac{1}{2}X_t^2 V_{xx} + \frac{1}{\theta} \psi^{1-\theta} C_t^{\theta} + \frac{1}{2}V_{wr} X_t (1 - \pi_t) \right\} = 0 \quad (21)$$
+最优消费
+$$C^* = \sqrt[\theta-1]{\frac{V_x}{\psi^{1-t}}}$$
